@@ -25,7 +25,7 @@ To get an overview of the 8051 microcontroller & MCU 8051 IDE Simulation Softwar
 1. Read about 8051 architecture from 8051-Kenneth Ayala book
 2. Follow instructions on Moodle to install MCU 8051 IDE
 
-### Final list of Deliverables for Expt 1
+### Final list of Deliverables for Expt 0
 
 Screenshots of:
 - Installed version of MCU 8051 IDE
