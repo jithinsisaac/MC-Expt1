@@ -3,7 +3,7 @@ Department of Electronics & Telecommunciation,
 Don Bosco Institute of Technology, Mumbai.  
 Course Coordinator: Mr. Jithin Isaac
 
-### Laboratory Experiment No. 1
+### Laboratory Experiment No. 0
  
 ### Objective  
 To get an overview of the 8051 microcontroller & MCU 8051 IDE Simulation Software
